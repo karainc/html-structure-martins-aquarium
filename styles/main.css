@@ -1,0 +1,31 @@
+
+.title {
+    text-align: center;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+
+    flex-basis: 25%;
+    border: 1px solid green;
+    background-color: rgb(86, 198, 236);
+    font: arial;
+    padding: 0.5em;
+    margin: 0.15em;
+    text-align: center;
+}
+
+body {
+background-color: lightblue;
+}
+
+.pageHeader {
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
